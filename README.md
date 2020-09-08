@@ -1,7 +1,6 @@
-<img src="../../../../../../../img/themdb.png" alt="imgscreenshot">
+<img src="https://github.com/christianraymond/themoviedb/blob/master/public/img/themdb.png" alt="imgscreenshot">
 
 ## About Laravel
-
 Laravel Movies Example
 
 ## Auther
