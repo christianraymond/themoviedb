@@ -1,4 +1,4 @@
-<img src="/img/themdb.png">
+<img src="/img/joker.jpg">
 
 ## About Laravel
 
