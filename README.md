@@ -1,4 +1,5 @@
-<img src="../img/themdb.png">
+<img src="./img/themdb.png">
+
 
 
 
